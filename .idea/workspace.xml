@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0802852-f71d-499b-98b8-cad900fdbd4e" name="Changes" comment="Inicial Commit">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a0802852-f71d-499b-98b8-cad900fdbd4e" name="Changes" comment="Screen implemented">
+      <change afterPath="$PROJECT_DIR$/paddle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,11 +78,20 @@
       <option name="project" value="LOCAL" />
       <updated>1758887255697</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Screen implemented">
+      <option name="closed" value="true" />
+      <created>1758887932266</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758887932266</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Inicial Commit" />
+    <MESSAGE value="Screen implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="Screen implemented" />
   </component>
 </project>
