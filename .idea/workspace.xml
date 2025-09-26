@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0802852-f71d-499b-98b8-cad900fdbd4e" name="Changes" comment="Paddles moviment implemented">
-      <change afterPath="$PROJECT_DIR$/ball.py" afterDir="false" />
+    <list default="true" id="a0802852-f71d-499b-98b8-cad900fdbd4e" name="Changes" comment="Ball and collision implemented">
+      <change afterPath="$PROJECT_DIR$/scoreboard.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ball.py" beforeDir="false" afterPath="$PROJECT_DIR$/ball.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,21 +25,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "D4viMartinsLima"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;D4viMartinsLima&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/D4viMartinsLima/PongArcadeGame.git",
-    "accountId": "f969b040-12a2-4d3e-8911-527ce934a8b9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/D4viMartinsLima/PongArcadeGame.git&quot;,
+    &quot;accountId&quot;: &quot;f969b040-12a2-4d3e-8911-527ce934a8b9&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="33EfRgLRxpKTyVTL6ROnVTL99ko" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -50,6 +51,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.ball.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.paddle.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -95,13 +97,22 @@
       <option name="project" value="LOCAL" />
       <updated>1758890200297</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Ball and collision implemented">
+      <option name="closed" value="true" />
+      <created>1758898837619</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1758898837619</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicial Commit" />
     <MESSAGE value="Screen implemented" />
     <MESSAGE value="Paddles moviment implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="Paddles moviment implemented" />
+    <MESSAGE value="Ball and collision implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ball and collision implemented" />
   </component>
 </project>
