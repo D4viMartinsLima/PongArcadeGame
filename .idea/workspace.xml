@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a0802852-f71d-499b-98b8-cad900fdbd4e" name="Changes" comment="Screen implemented">
-      <change afterPath="$PROJECT_DIR$/paddle.py" afterDir="false" />
+    <list default="true" id="a0802852-f71d-499b-98b8-cad900fdbd4e" name="Changes" comment="Paddles moviment implemented">
+      <change afterPath="$PROJECT_DIR$/ball.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -48,6 +48,7 @@
   "keyToString": {
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.ball.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -86,12 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1758887932266</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Paddles moviment implemented">
+      <option name="closed" value="true" />
+      <created>1758890200297</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1758890200297</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inicial Commit" />
     <MESSAGE value="Screen implemented" />
-    <option name="LAST_COMMIT_MESSAGE" value="Screen implemented" />
+    <MESSAGE value="Paddles moviment implemented" />
+    <option name="LAST_COMMIT_MESSAGE" value="Paddles moviment implemented" />
   </component>
 </project>
